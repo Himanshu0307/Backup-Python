@@ -1,0 +1,13 @@
+{
+    "id": "0",
+    "name": "Service",
+    "serverip": "Target Server IP",
+    "database": "Database Name",
+    "dbServer": "SQL Server Name",
+    "port": 21,
+    "username": "FTP user name",
+    "password": "FTP user password",
+    "dbusername": "DB username",
+    "dbpassword": "DB password",
+    "scheduled":"11:50"
+}

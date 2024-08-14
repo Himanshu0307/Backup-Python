@@ -1,0 +1,5 @@
+env/Lib/
+logs/
+BackupFolder/
+__pycache__/
+.vscode/
